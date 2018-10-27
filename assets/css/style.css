@@ -6,7 +6,9 @@
 .container {
     width: 960px;
     background-color: #ffffff;
-    margin: 50px 200px; 
+    margin-top:50px;
+    margin-left:200px;
+
 }
 
 .header {
@@ -179,17 +181,17 @@ textarea[type=textarea], select {
 	width: 900px;
 	display: inline-block;
 	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 	border: 1px solid #777777;
 	border-radius: 4px;
 	padding: 6px 12px;
-	min-height: 100px;
+	min-height: 80px;
 	box-sizing: border-box;
 	color: #777777;
 }
 
 input[type=submit] {
-	margin-top: 10px;
+	margin-top: 5px;
 	background-color: #4aaaa5;
 	color: #ffffff;
 	padding: 12px 48px;
